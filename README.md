@@ -1,5 +1,5 @@
 ### Olá 👋
 
 - 🔭 Trabalho na Subsecretaria de Contabilidade Geral do Estado do Rio de Janeiro
-- 🌱 Aprendendo Python e aplicando na análise de dados, desenvolvimento de aplicações web, web scraping e outros...
+- 🌱 Contador Público e Desenvolvedor Python (análise de dados, inteligência artificial, desenvolvimento de aplicações web, autamções entre outros...
 
