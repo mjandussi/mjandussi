@@ -28,6 +28,8 @@ Minhas principais áreas de atuação incluem:
 - 🔗 Integração entre áreas de negócio e tecnologia da informação  
 - 🐍 Desenvolvimento de soluções em Python para automação e análise de dados  
 
+Minha atuação combina conhecimento contábil e tecnologia, com foco na construção de soluções baseadas em dados, automação de processos e aplicação de inteligência artificial no setor público.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
