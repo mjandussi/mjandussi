@@ -53,8 +53,8 @@ Ferramentas para avaliação da qualidade da informação contábil dos municíp
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mjandussi&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjandussi&layout=compact&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mjandussi&show_icons=true&theme=default&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjandussi&layout=compact&theme=default&cache_seconds=1800" />
 </p>
 
 ---
