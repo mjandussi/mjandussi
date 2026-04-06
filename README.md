@@ -14,33 +14,34 @@
 
 ## 🚀 Sobre mim
 
-Sou Auditor do Estado na Controladoria Geral do Estado do Rio de Janeiro (CGE-RJ) e contador formado pela UFRJ, com mais de 15 anos de experiência em contabilidade pública, gestão fiscal e sistemas governamentais.
+Auditor do Estado e contador, com mais de 15 anos de experiência em contabilidade pública, gestão fiscal e sistemas de administração financeira e orçamentária (SIAFIC).
 
-Atualmente atuo na Secretaria de Estado de Fazenda do Rio de Janeiro (SEFAZ-RJ), na Subsecretaria de Contabilidade Geral do Estado (SUBCONT), com foco na melhoria da qualidade da informação contábil e na modernização de processos por meio de tecnologia.
+Atuo na Secretaria de Estado de Fazenda do Rio de Janeiro (SEFAZ-RJ), na Subsecretaria de Contabilidade Geral do Estado (SUBCONT), trabalhando com a evolução do SIAFIC, a melhoria da qualidade da informação contábil e a modernização de processos com apoio de tecnologia.
 
-Tenho experiência na transformação de **dados fiscais e contábeis** em soluções práticas, utilizando Python para automação, análise de dados e desenvolvimento de aplicações.
+Ao longo da minha trajetória, passei a utilizar Python como ferramenta para automatizar rotinas, analisar dados e desenvolver aplicações voltadas à área fiscal.
 
 Minhas principais áreas de atuação incluem:
 
-- 📊 Avaliação da qualidade da informação contábil e fiscal (Ranking SICONFI)  
-- 🧾 Estruturação, validação e análise da Matriz de Saldos Contábeis (MSC)  
-- 🔎 Análise crítica e consistência de demonstrativos fiscais  
-- 🔗 Integração entre áreas de negócio e tecnologia da informação  
-- 🐍 Desenvolvimento de soluções em Python para automação e análise de dados  
+- 📊 Qualidade da informação contábil e fiscal (Ranking SICONFI)  
+- 🧾 Matriz de Saldos Contábeis (MSC)  
+- 🔎 Análise e consistência de demonstrativos fiscais  
+- 🔗 Integração entre áreas de negócio e TI  
+- 🐍 Automação e análise de dados com Python  
 
-Minha atuação combina conhecimento contábil e tecnologia, com foco na construção de soluções baseadas em dados, automação de processos e aplicação de inteligência artificial no setor público.
-
+Hoje, meu foco está em unir contabilidade e tecnologia para melhorar a confiabilidade e o uso das informações fiscais no setor público.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-REST-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
