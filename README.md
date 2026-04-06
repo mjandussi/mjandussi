@@ -7,20 +7,26 @@
 
 # 👋 Olá, eu sou Marcelo Jandussi
 
-💼 Atuo na **Subsecretaria de Contabilidade Geral do Estado do Rio de Janeiro**  
+💼 Atuo na **Subsecretaria de Contabilidade Geral do Estado do Rio de Janeiro (SUBCONT/SEFAZ-RJ)**  
 🐍 Contador Público | Desenvolvedor Python  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou especializado em transformar **dados fiscais e contábeis** em soluções práticas, utilizando Python para automação, análise e desenvolvimento de aplicações.
+Sou Auditor do Estado na Controladoria Geral do Estado do Rio de Janeiro (CGE-RJ) e contador formado pela UFRJ, com mais de 15 anos de experiência em contabilidade pública, gestão fiscal e sistemas governamentais.
 
-Atuo fortemente com:
-- 📊 Qualidade da informação contábil (SICONFI)
-- 🔎 Validação de dados fiscais
-- 🤖 Automação de processos
-- 🌐 Integração com APIs públicas
+Atualmente atuo na Secretaria de Estado de Fazenda do Rio de Janeiro (SEFAZ-RJ), na Subsecretaria de Contabilidade Geral do Estado (SUBCONT), com foco na melhoria da qualidade da informação contábil e na modernização de processos por meio de tecnologia.
+
+Tenho experiência na transformação de **dados fiscais e contábeis** em soluções práticas, utilizando Python para automação, análise de dados e desenvolvimento de aplicações.
+
+Minhas principais áreas de atuação incluem:
+
+- 📊 Avaliação da qualidade da informação contábil e fiscal (Ranking SICONFI)  
+- 🧾 Estruturação, validação e análise da Matriz de Saldos Contábeis (MSC)  
+- 🔎 Análise crítica e consistência de demonstrativos fiscais  
+- 🔗 Integração entre áreas de negócio e tecnologia da informação  
+- 🐍 Desenvolvimento de soluções em Python para automação e análise de dados  
 
 ---
 
@@ -40,20 +46,26 @@ Atuo fortemente com:
 ## 📊 Projetos em destaque
 
 🔹 **SICONFI DADOS**  
-Aplicação em Streamlit para análise e validação de dados fiscais, com integração via API do Tesouro Nacional.
+Aplicação em Streamlit para exploração e diagnóstico de dados fiscais, com integração à API do Tesouro Nacional e foco na qualidade da informação contábil.
 
-🔹 **Automação de Validações Fiscais**  
-Scripts para identificação de inconsistências em demonstrativos (MSC, RREO, RGF, DCA).
+🔹 **Inteligência Artificial aplicada a dados públicos**  
+Projetos utilizando Python e LangChain para construção de soluções com LLMs, incluindo análise de dados fiscais, geração de insights e apoio à tomada de decisão.
 
-🔹 **Análise de Ranking SICONFI**  
-Ferramentas para avaliação da qualidade da informação contábil dos municípios.
+🔹 **Automação e Web Scraping**  
+Desenvolvimento de rotinas para coleta, tratamento e monitoramento automatizado de dados em sistemas e portais, reduzindo esforço manual e aumentando a eficiência operacional.
+
+🔹 **Integração com APIs e Engenharia de Dados**  
+Construção de pipelines para consumo, transformação e análise de dados via APIs públicas, com uso de Python, manipulação de dados e persistência em banco de dados.
+
+🔹 **Validação e Consistência de Dados Fiscais**  
+Ferramentas para verificação automatizada de consistência entre demonstrativos (MSC, RREO, RGF e DCA), com foco em confiabilidade e integridade da informação.
 
 ---
 
 ## 🌐 Conecte-se comigo
 
 <p>
-  <img src="https://img.shields.io/badge/Email-seuemail@exemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-seuusuario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-@seuusuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-mjandussi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Marcelo Jandussi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@siconfi_dados-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
