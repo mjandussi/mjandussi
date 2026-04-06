@@ -53,7 +53,7 @@ Ferramentas para avaliação da qualidade da informação contábil dos municíp
 ## 🌐 Conecte-se comigo
 
 <p>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-seuemail@exemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-seuusuario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@seuusuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
